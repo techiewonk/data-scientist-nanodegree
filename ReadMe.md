@@ -1,5 +1,6 @@
 # Stackoverflow survey data
 
+# Please Visit Blog Link :  https://medium.com/@hemprasad.badgujar/it-has-no-borders-how-to-pick-a-best-it-resources-from-right-country-at-the-appropriate-274a40f590f
 
 ## Data Analysis Process
 1. Business Understanding to define Problem statement.
